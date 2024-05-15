@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AnshGaur28
-- 👀 I’m interested in --> software development (web-app development ) and machine learning ...
-- 🌱 I’m currently learning --> Full-Stack Web Development
-- I am efficient in frameworks such as React MongoDB Nodejs and Express with Tailwind
-- 💞️ I’m looking to collaborate in learning circles and projects ...
-- 📫 How to reach me  through my mail ID in my profile....
+- 👀 I work with Web Development technologies and Machine Learning Models such as React , Node , Python , FastAPI , Nextjs and Deep Learning architectures.
+- 🌱 I’m proficient as a Full-stack developer in MERN stack and python developer.
+- I am efficient in frameworks such as React Node and Express ,Tailwind , FastAPI.
+- 💞️ I’m looking to collaborate in projects associated with Web development and Machine Learning.
+- 📫 Reach me through Email - ansh28.dinesh30@gmail.com 
 
 <!---
 AnshGaur28/AnshGaur28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
